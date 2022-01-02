@@ -78,7 +78,7 @@ GreenLine.Parent = Enable
 GreenLine.BackgroundColor3 = Color3.fromRGB(0, 255, 102)
 GreenLine.BorderSizePixel = 0
 GreenLine.Position = UDim2.new(0, 0, 0.954545438, 0)
-GreenLine.Size = UDim2.new(0, 234, 0, 3)
+GreenLine.Size = UDim2.new(0, 0, 0, 3)
 
 Enable:TweenPosition(UDim2.new(0.431, 0,0.808, 0), "Out", "Sine", 0.35)
 wait(0.35)
