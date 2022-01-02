@@ -21,7 +21,7 @@ function Notification:Holder()
     UIListLayout.Padding = UDim.new(0, 5)
 end
 
-function Holder:CreateEnable(text, delay)
+function Notification:Enable(text, delay)
     local Enable = Instance.new("Frame")
     local UICorner = Instance.new("UICorner")
     local Module = Instance.new("TextLabel")
