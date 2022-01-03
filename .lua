@@ -31,7 +31,7 @@ Enable.Parent = NotiHolder
 Enable.BackgroundColor3 = Color3.fromRGB(1, 1, 1)
 Enable.BackgroundTransparency = 0.550
 Enable.BorderSizePixel = 0
-Enable.Position = UDim2.new(0.43065694, 0, 0.807580292, 0)
+Enable.Position = UDim2.new(1.2, 0, 0.807580292, 0)
 Enable.Size = UDim2.new(0, 234, 0, 66)
 
 UICorner.CornerRadius = UDim.new(0, 5)
