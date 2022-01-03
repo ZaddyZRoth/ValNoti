@@ -85,7 +85,7 @@ wait(0.35)
 GreenLine:TweenSize(UDim2.new(0, 234, 0, 3), "Out", "Linear", delay)
 wait(delay)
 Enable:TweenPosition(UDim2.new(1.2, 0,0.808, 0), "Out", "Sine", 0.35)
-wait(0.35)
+wait(4)
 Enable:Destroy()
 end
 return Notification
